@@ -866,9 +866,10 @@
 /* line 55, /Users/toppa/Projects/potatochop/lib/views/comps/electnext_com/css/sass/bf_landing.scss */
 #title-page .browser-example {
   float: left;
-  width: 48%;
+  max-width: 605px;
   margin-right: 5%;
   margin-left: 2%;
+  width: 48%;
 }
 /* line 60, /Users/toppa/Projects/potatochop/lib/views/comps/electnext_com/css/sass/bf_landing.scss */
 #title-page .browser-example .chrome {
