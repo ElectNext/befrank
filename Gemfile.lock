@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/ElectNext/pipedriver.git
-  revision: 59a173f20512c2a33aa4ac6b995a3d7146d18dd3
+  remote: git://github.com/VersaHQ/pipedriver.git
+  revision: a6aaa3f4ae8beb8652db638d5046cb89a23d971e
   specs:
     pipedriver (0.0.6)
       multi_json (~> 1.1)
@@ -18,7 +18,7 @@ GEM
     haml (4.0.3)
       tilt
     json (1.8.0)
-    mime-types (1.25)
+    mime-types (2.2)
     multi_json (1.8.1)
     rack (1.5.2)
     rack-protection (1.5.0)
